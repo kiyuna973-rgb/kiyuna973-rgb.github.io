@@ -1,0 +1,10 @@
+
+body { font-family: sans-serif; margin: 20px; background: #fafafa; }
+header { text-align: center; margin-bottom: 40px; }
+.products { display: flex; justify-content: center; }
+.item { background: #fff; padding: 16px; width: 260px; border-radius: 10px; border: 1px solid #ddd; }
+.item img { width: 100%; border-radius: 6px; }
+.price { font-size: 20px; font-weight: bold; margin: 10px 0; }
+.btn, .buy-btn { background: black; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; display: inline-block; }
+.product-detail { display: flex; gap: 20px; margin-top: 20px; }
+.main-img { width: 350px; }
